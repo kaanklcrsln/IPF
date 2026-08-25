@@ -1,0 +1,11 @@
+# IPF - Image Processing Functions
+# GUI icin gerekli paketler
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.5
+Pillow>=9.0
+
+# GeoTIFF destegi icin (istege bagli).
+# Kurulu degilse .tif dosyalari Pillow ile okunur; cografi
+# referans bilgisi (transform/CRS) korunmaz.
+rasterio>=1.3
