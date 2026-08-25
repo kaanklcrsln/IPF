@@ -1,10 +1,12 @@
-# IPF — Image Processing Functions
+# IPF - Image Processing Functions
 
 Görüntü iyileştirme, gürültü azaltma ve pansharpening filtrelerinden oluşan
 bir koleksiyon ve bunları interaktif olarak kullanmayı sağlayan bir masaüstü
 arayüz.
 
 Tüm işlem **yerel makinede** yapılır; hiçbir görüntü dışarı gönderilmez.
+
+<img width="2094" height="1266" alt="arayüz-2" src="https://github.com/user-attachments/assets/16e291a9-958e-4b40-bd71-3cb155ee553e" />
 
 ---
 
